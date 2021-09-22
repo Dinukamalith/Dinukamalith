@@ -7,7 +7,7 @@
  
  
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=-%3E+Deploy+some+bots;-%3E+Github+student;-%3E+Codes+learner;-%3EYoutuber;-%3E+AL+student;-%3E+Html+user)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=-%3E+Deploy+some+bots;-%3E+Github+student;-%3E+Codes+learner;-%3EYoutuber;-%3E+School+student;-%3E+Html+user)](https://git.io/typing-svg)
  
  
  [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
